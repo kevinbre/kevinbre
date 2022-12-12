@@ -30,7 +30,7 @@
    <img align="left" alt="BootStrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" />
    <img align="left" alt="Bitbucket" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" />
    <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" />
-   <img align="left" alt="Mongo" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" />
+   <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" />
    <img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" />
 </p>
 <br />
