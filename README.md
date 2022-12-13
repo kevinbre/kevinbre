@@ -1,6 +1,6 @@
-# 👱♂ Kevin Bredelis
+# 👨🏻 Kevin Bredelis
 
-**`Developer 🏻💻`**
+**`Developer 💻`**
 
    <p align="left">
       <a href="https://www.linkedin.com/in/kevin-bredelis-14a475178/" target="_blank">
