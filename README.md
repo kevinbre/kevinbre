@@ -1,4 +1,4 @@
-# 🏄‍♂️ Kevin Bredelis
+# 👱♂ Kevin Bredelis
 
 **`Developer 🏻💻`**
 
