@@ -7,7 +7,7 @@
          <img alt="Linkedin" title="Take my Linkedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
       <a href="mailto:bredeliskev@gmail.com" target="_blank">
          <img alt="Gmail" title="Gmail" src="https://custom-icon-badges.demolab.com/badge/-bredeliskev@gmail.com-red?style=for-the-badge&logoColor=white&logo=gmail"/></a> 
-      <a href="https://portfolio-kevinbre.vercel.app/" target="_blank">
+      <a href="https://kevinbre.dev/" target="_blank">
          <img alt="Portfolio" title="Look my portfolio" src="https://custom-icon-badges.demolab.com/badge/-portfolio-white?style=for-the-badge&logoColor=white&logo=web"/></a>
       <a href="https://drive.google.com/file/d/1lLMcVkx-KKRE0bZpF5S9fRkPlBVc4xnl/view" target="_blank">
          <img alt="Resume" title="Resume" src="https://custom-icon-badges.demolab.com/badge/-resume-yellow?style=for-the-badge&logoColor=white&logo=googledrive"/></a>
