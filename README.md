@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kevin Bredelis</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+# Hi 👋, I'm Kevin Bredelis
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinbre&label=Profile%20views&color=0e75b6&style=flat" alt="kevinbre" /> </p>
+A passionate frontend developer from Argentina.
 
-- 🔭 I’m currently working on **[Geopagos](https://www.geopagos.com/)**
+🔭 **I’m currently working at Geopagos.**
 
-- 👨‍💻 All of my projects are available at [https://kevinbre.dev](https://kevinbre.dev)
+👨‍💻 **All of my projects are available at [kevinbre.dev](https://kevinbre.dev).**
 
-- 💬 Ask me about **React, Typescript, NextJs**
+💬 **Ask me about React, TypeScript, Next.js.**
 
-- 📫 How to reach me **bredeliskev@gmail.com**
+📫 **How to reach me:** bredeliskev@gmail.com
 
-- ⚡ Fun fact **I love video games**
+⚡ **Fun fact:** I love video games.
 
-- 🧬 You can connect with me on  [Linkedin](https://linkedin.com/in/kevinbre)
+🧬 **You can connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-bredelis).**
