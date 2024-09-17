@@ -13,4 +13,4 @@
 
 - ⚡ Fun fact **I love video games**
 
-- 🧬 You can connect with me on  [https://linkedin.com/in/kevinbre](Linkedin)
+- 🧬 You can connect with me on  [Linkedin](https://linkedin.com/in/kevinbre)
