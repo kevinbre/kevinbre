@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kevin Bredelis
+# Hi 👋, I'm Kev
 
 A passionate frontend developer from Argentina.
 
