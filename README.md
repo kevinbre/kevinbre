@@ -15,5 +15,4 @@ A passionate frontend developer from Argentina.
 🧬 **You can connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-bredelis).**
 
 
-<img src="https://gh-readme-profile.vercel.app/api?username=kevinbre&border_width=0&bg_color=080c11&title_color=7225ed&text_color=989898&icon_color=7335f2&border_color=320856&username_color=38006e" alt="Stat's Card" width="400">
-
+<img src="https://gh-readme-profile.vercel.app/api?username=kevinbre&border_width=0&hide_stroke=true&bg_color=0d1117&title_color=0d1117&text_color=c9c9c9&icon_color=43008d&border_color=320856&stroke_color=110d17&username_color=43008d" alt="Stat's Card" width="100%">
