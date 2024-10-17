@@ -2,7 +2,7 @@
 
 A passionate frontend developer from Argentina.
 
-🔭 **I’m currently working at [Geopagos](https://www.geopagos.com/).**
+🔭 **I’m currently working at [RatherLabs](https://www.geopagos.com/) on the [Membranelabs](https://membranelabs.com/) project. **
 
 👨‍💻 **All of my projects are available at [kevinbre.dev](https://kevinbre.dev).**
 
